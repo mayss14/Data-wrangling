@@ -30,8 +30,6 @@ matplotlib
 numpy
 Install the requirements using:
 
-bash
-Copier le code
 pip install pandas matplotlib numpy
 
 ### Key Steps
